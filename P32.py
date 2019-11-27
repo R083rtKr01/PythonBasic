@@ -1,0 +1,1 @@
+print("pole trójkąta: ", 0.5*float(input("podaj długość podstawy"))*float(input("podaj wysokość")))

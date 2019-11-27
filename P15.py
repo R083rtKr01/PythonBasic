@@ -1,0 +1,1 @@
+print("Czesiek"*3)
