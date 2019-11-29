@@ -20,3 +20,4 @@ while(True):
     elements.append(elem)
 else:
     print(elements)
+

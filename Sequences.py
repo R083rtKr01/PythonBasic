@@ -184,9 +184,9 @@ unikaty=set(slowa)
 print(unikaty, "liczba słów w zbiorze", len(unikaty),
       " oraz liczba powtórzeń pewnego słowa w zbiorze wynosi", len(slowa)-len(unikaty))
 
-S=set([1,2,3])
-L=['a','a','A']
-D={'a':11,'b':11,'c':1}
-print(s)
-print(list(s))
-print(set())
+# S=set([1,2,3])
+# # L=['a','a','A']
+# # D={'a':11,'b':11,'c':1}
+# # print(s)
+# # print(list(s))
+# # print(set())

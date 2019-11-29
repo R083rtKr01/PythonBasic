@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b0a8d30-0860-456f-ab17-b103c8bcc1a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ConditionalInstructions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P46.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P48.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Formating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P52.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P53.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P54.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P55.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P56.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,6 +29,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="day2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UBwnxi8c5F0Pk5eUlTutPBHAjo" />
@@ -52,8 +55,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Loops">
-    <configuration name="ConditionalInstructions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.P56">
+    <configuration name="P52" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBasicD19" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ConditionalInstructions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P52.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="P53" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBasicD19" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P53.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P42" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="P54" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBasicD19" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P42.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P54.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P46" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="P55" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBasicD19" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P46.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P55.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P49" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="P56" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBasicD19" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P49.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P56.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Loops" />
-        <item itemvalue="Python.P49" />
-        <item itemvalue="Python.P46" />
-        <item itemvalue="Python.ConditionalInstructions" />
-        <item itemvalue="Python.P42" />
+        <item itemvalue="Python.P56" />
+        <item itemvalue="Python.P55" />
+        <item itemvalue="Python.P54" />
+        <item itemvalue="Python.P53" />
+        <item itemvalue="Python.P52" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +182,14 @@
       <option name="presentableId" value="Default" />
       <updated>1574843467869</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day_2">
+      <created>1574956677941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574956677941</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +204,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
