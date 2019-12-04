@@ -2,20 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b0a8d30-0860-456f-ab17-b103c8bcc1a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/COP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P57.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P58.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P58solved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P59.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P60.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P61.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P62.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P64.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P65.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P66.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Employee_Management/controller/CompanyController.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Employee_Management/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Employee_Management/model/Employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Employee_Management/model/Trainee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homowork checkers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imports/DatabaseApplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imports/SecrecVariables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imports/databaseApplication2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_extends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P67/controller/StudentController.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P67/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P67/model/Student.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P64.py" beforeDir="false" afterPath="$PROJECT_DIR$/P64.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P65.py" beforeDir="false" afterPath="$PROJECT_DIR$/P65.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +46,14 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\R083rtKr01\PycharmProjects\pythonBasic" />
+      <recent name="C:\Users\R083rtKr01\PycharmProjects\pythonBasic\Employee_Management" />
+      <recent name="C:\Users\R083rtKr01\PycharmProjects\pythonBasic\P67" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,8 +67,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.P66">
-    <configuration name="COP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.DatabaseApplication">
+    <configuration name="CompanyController" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBasicD19" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Employee_Management/controller" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/COP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Employee_Management/controller/CompanyController.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OOP new" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DatabaseApplication" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBasicD19" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Imports" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP new.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Imports/DatabaseApplication.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P64" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SecrecVariables" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBasicD19" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Imports" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P64.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Imports/SecrecVariables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P65" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="databaseApplication2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBasicD19" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Imports" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P65.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Imports/databaseApplication2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P66" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBasicD19" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Employee_Management" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P66.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Employee_Management/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.P66" />
-        <item itemvalue="Python.OOP new" />
-        <item itemvalue="Python.COP" />
-        <item itemvalue="Python.P65" />
-        <item itemvalue="Python.P64" />
+        <item itemvalue="Python.DatabaseApplication" />
+        <item itemvalue="Python.databaseApplication2" />
+        <item itemvalue="Python.SecrecVariables" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.CompanyController" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575042947845</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day_4">
+      <created>1575302358264</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575302358264</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,7 +234,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day_2" />
     <MESSAGE value="Day_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day_3" />
+    <MESSAGE value="Day_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

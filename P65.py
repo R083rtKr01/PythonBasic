@@ -7,7 +7,7 @@ def generateNrandomElements(n):
             elements.append(randint(-1000,1000))
     print(elements)
     return elements
-print(generateNrandomElements(10))
+print(generateNrandomElements(15))
 
 def getElementsSupportMTreshold(n,treshold): #minSupp to wattość progowa
     elementsSupportTreshold = []
