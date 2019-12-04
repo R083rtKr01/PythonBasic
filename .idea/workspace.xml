@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b0a8d30-0860-456f-ab17-b103c8bcc1a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Employee_Management/controller/CompanyController.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Employee_Management/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Employee_Management/model/Employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Employee_Management/model/Trainee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homowork checkers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imports/DatabaseApplication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imports/SecrecVariables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imports/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imports/databaseApplication2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_extends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P67/controller/StudentController.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P67/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P67/model/Student.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P64.py" beforeDir="false" afterPath="$PROJECT_DIR$/P64.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P65.py" beforeDir="false" afterPath="$PROJECT_DIR$/P65.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imports/DatabaseApplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/Imports/DatabaseApplication.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -215,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575302358264</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day_5">
+      <created>1575473936776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575473936776</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +226,8 @@
     <MESSAGE value="Day_2" />
     <MESSAGE value="Day_3" />
     <MESSAGE value="Day_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day_4" />
+    <MESSAGE value="Day_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
